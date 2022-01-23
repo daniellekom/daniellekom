@@ -9,7 +9,5 @@
 
 Thanks for dropping by! Please excuse my code it will get better with time x
 
-![GitHub Views](https://komarev.com/ghpvc/?daniellekom=<daniellekom>)
-
 
 
